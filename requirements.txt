@@ -1,2 +1,8 @@
+# core
 voila
 ipywidgets>=8
+pandas
+numpy
+matplotlib
+python-docx          # ← needed for Document()
+pillow               # matplotlib & python‑docx use this
