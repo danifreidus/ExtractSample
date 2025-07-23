@@ -1,8 +1,18 @@
 # core
-voila
-ipywidgets>=8
+apify-client
 pandas
 numpy
 matplotlib
-python-docx          # ← needed for Document()
-pillow               # matplotlib & python‑docx use this
+plotly
+tqdm
+sqlalchemy
+openai
+tiktoken
+nest_asyncio
+asyncio
+dateparser
+python-docx
+docx2pdf
+Pillow
+ipywidgets
+voila
